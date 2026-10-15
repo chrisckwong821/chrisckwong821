@@ -2,7 +2,7 @@
 
 Risk and trading-systems engineer based in Tokyo. I build the controls that keep live trading and lending systems safe: real-time monitoring, circuit breakers, liquidation systems and oracle validation.
 
-My background spans institutional equities (Goldman Sachs), FX (CLSA), a crypto exchange market-making desk (AAX) and DeFi, where I was CTO of [Kinza Finance](https://kinza.finance), a lending protocol that peaked at $200M+ TVL.
+My background spans institutional equities (Goldman Sachs), FX (CLSA), a crypto exchange market-making desk (AAX) and DeFi, where I was CTO of [Kinza Finance](https://app.kinza.finance), a lending protocol that peaked at $200M+ TVL.
 
 ---
 
