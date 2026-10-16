@@ -12,6 +12,7 @@ My background spans institutional equities (Goldman Sachs), FX (CLSA), a crypto 
 - **Smart-contract security.** 13 high- and 39 medium-severity findings across 30+ protocols, including EigenLayer, GMX, Notional and Moonwell. USD 41K+ awarded.
   - Sherlock: [0xGoodess](https://audits.sherlock.xyz/watson/0xGoodess) (3rd on Index, 4th on Perennial)
   - Code4rena: [0xWaitress](https://code4rena.com/@0xWaitress)
+  - Write-ups and top findings: [github.com/chrisckwong821/audits](https://github.com/chrisckwong821/audits)
 - **Trading systems.** Order-flow integration and regression, rollback and recovery testing at Goldman Sachs. Real-time PnL and delta monitoring for a 100+ symbol market-making engine.
 - **[OptionSniper.xyz](https://optionsniper.xyz).** A live options-analytics tool that computes volatility-adjusted signals from a Databento market-data feed. Built with Node.js and SQLite.
 
